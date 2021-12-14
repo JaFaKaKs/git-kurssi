@@ -1,3 +1,4 @@
 - Kalkkuna
 - Proteiinijauhe
 - Pinaatti
+- Mantelimaito
