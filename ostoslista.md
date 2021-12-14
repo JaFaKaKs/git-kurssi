@@ -2,3 +2,4 @@
 - Proteiinijauhe
 - Pinaatti
 - Mantelimaito
+- Salaatti
